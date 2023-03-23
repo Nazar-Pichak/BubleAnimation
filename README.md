@@ -7,7 +7,7 @@ Also it is like a simple app for desktop. You can use it as a beautiful screen s
 The project is developed and was taken from beginner's platform [letpy](https://letpy.com/) what I recomend as well.
 
 ## Features
-- The features of the animation items are derived from built-in module 'random'.
+- The features of the animation items are derived from built-in module ```random```.
 - So far it can works only on Windows system. 
 - The basis of the project is .exe file extension.
 - The most important thing it is converting python-file into executable-file with a library 
