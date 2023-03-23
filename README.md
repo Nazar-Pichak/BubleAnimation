@@ -4,7 +4,7 @@
 
 This animation is created by exploring procedural-oriented paradighm in Python.
 Also it is like a simple app for desktop. You can use it as a beautiful screen saver for your desktop.
-The project is developed and was taken from beginner's platform [letpy](https://letpy.com/) what I reccomend as well.
+The project is developed and was taken from beginner's platform [letpy](https://letpy.com/) what I recomend as well.
 
 ## Features
 - So far it can works only on Windows system. 
