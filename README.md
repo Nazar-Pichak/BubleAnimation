@@ -17,6 +17,6 @@ The project is developed and was taken from beginner's platform [letpy](https://
 ## Instalation
 - To install this ...
 
-For beginners it is copletely useful to research if you have interest about games.
-Enjoy your free time by playing games and coding as well.
+For beginners it is copletely useful to research, modify and improve functionality.
+Enjoy your coding !!!
 
