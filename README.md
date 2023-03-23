@@ -14,7 +14,7 @@ The project is developed and was taken from beginner's platform [letpy](https://
 ```auto-py-to-exe``` from [PyPi](https://pypi.org/).
 ## Online review
 - You can also try to [review it online](https://apps.letpy.com/animation_jumping_ovals) and look how it works. 
-## Instalation
+## Installation
 - To install this ...
 
 For beginners it is copletely useful to research, modify and improve functionality.
