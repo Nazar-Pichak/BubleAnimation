@@ -11,7 +11,7 @@ The project is developed and was taken from beginner's platform [letpy](https://
 - So far it can works only on Windows system. 
 - The basis of the project is .exe file extension.
 - The most important thing it is converting python-file into executable-file with a library 
-'auto-py-to-exe' from [PyPi](https://pypi.org/).
+```auto-py-to-exe``` from [PyPi](https://pypi.org/).
 ## Online review
 - You can also try to [review it online](https://apps.letpy.com/animation_jumping_ovals) and look how it works. 
 ## Instalation
