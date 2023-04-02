@@ -15,7 +15,7 @@ The project is developed and was taken from beginner's platform [letpy](https://
 ## Online review
 - You can also try to [review it online](https://apps.letpy.com/animation_jumping_ovals) and look how it works. 
 ## Installation
-- To install this ...
+- You can easily install this unofficial file [here](https://drive.google.com/file/d/1_UjuMNXbzoYsHbtM22k3imOqd165nGYk/view?usp=sharing) and run on your windows system.
 
 For beginners it is copletely useful to research, modify and improve functionality.
 Enjoy your coding !!!
